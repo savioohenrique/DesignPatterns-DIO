@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPMRF5XDwTZtsdbime3ob84caLFABigsOqV4ID4T9VqFHTYaojMza5irm/bisp+P+bbwtjyrM3sxF/6IP6Ldtw==",
+  "success": true,
+  "projectFilePath": "C:\\git\\DesignPatterns\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arauj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
